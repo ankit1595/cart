@@ -1,0 +1,91 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+ ../../.android/
+        ../../.bash_history
+        ../../.condarc
+        ../../.config/
+        ../../.eclipse/
+        ../../.gcodesim
+        ../../.gitconfig
+        ../../.gradle/
+        ../../.idlerc/
+        ../../.ipynb_checkpoints/
+        ../../.ipython/
+        ../../.java/
+        ../../.jmc/
+        ../../.jssc/
+        ../../.jupyter/
+        ../../.lesshst
+        ../../.lmmsrc.xml
+        ../../.matplotlib/
+        ../../.node_repl_history
+        ../../.pylint.d/
+        ../../.python_history
+        ../../.spyder-py3/
+        ../../.vscode/
+        ../../.wakatime-internal.cfg
+        ../../.wakatime.bdb
+        ../../.wakatime.cfg
+        ../../.wakatime.log
+        ../../.wakatime/
+        ../../3D Objects/
+        ../../AndroidStudioProjects/
+        ../../AppData/
+        ../../Contacts/
+        ../../Desktop/
+        ../../Documents/
+        ../../Downloads/
+        ../../Evernote/
+        ../../Favorites/
+        ../../IntelGraphicsProfiles/
+        ../../Links/
+        ../../MicrosoftEdgeBackups/
+        ../../Music/
+        ../../NTUSER.DAT
+        ../../NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.0.regtrans-ms
+        ../../NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.1.regtrans-ms
+        ../../NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.2.regtrans-ms
+        ../../NTUSER.DAT{53b39e87-18c4-11ea-a811-000d3aa4692b}.TxR.blf
+        ../../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TM.blf
+        ../../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000001.regtrans-ms
+        ../../NTUSER.DAT{53b39e88-18c4-11ea-a811-000d3aa4692b}.TMContainer00000000000000000002.regtrans-ms
+        ../../OneDrive/
+        ../../Pictures/
+        ../../README.md
+        ../react-app/
+        ../redux-starter/
+        ../../Saved Games/
+        ../../Searches/
+        ../../Synfig/
+        ../../Untitled.ipynb
+        ../../Videos/
+        ../../a.out
+        ../../maya
+        ../../ntuser.dat.LOG1
+        ../../ntuser.dat.LOG2
+        ../../ntuser.ini
+        ../../set
+        ../../todo/
