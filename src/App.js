@@ -89,7 +89,14 @@ class App extends React.Component {
           onDecreaseQty={this.handlerDecQty}
           onDelete={this.handlerDeleteItem}
         />
-        <div style={{ padding: 20, fontSize: 25 }}>
+        <div
+          style={{
+            paddingLeft: 45,
+            paddingTop: 15,
+            fontSize: 20,
+            fontWeight: "bold",
+          }}
+        >
           TOTAL : Rs {this.getCartTotal()}
         </div>
       </div>
